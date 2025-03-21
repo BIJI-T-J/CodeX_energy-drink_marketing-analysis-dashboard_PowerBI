@@ -17,7 +17,7 @@ This project analyses the data and bring forward insights that are crucial for t
 * Built dashboard that gives summary of customer's perception on energy drinks(Customer analysis dashboard), customers perception on CodeX(Brand analysis dashboard), CodeX market and competitors(Marketing analysis dashboard)
 # Insights
 * Men, specially in the age of 19-30 consumes more energy drinks.
-* Only 44% of people (out of 10,000 repondents) know about Codex, in this 44% only 20% tried Codex and among them only 2% preferrd CodeX over other brand
+* Only 44% of people (out of 10,000 repondents) know about Codex. In this 44%, only 20% tried Codex and among them only 2% preferrd CodeX over other brand
 * Most number of CodeX users in Tier 1 city and highest number of users in Bangalore.
 * 46% of  CodeX users are preferring this brand to stay awake during study or work like in sports and exercises.
 * 10% of respondents who tried CodeX atleast once, preferred CodeX over other brands.
