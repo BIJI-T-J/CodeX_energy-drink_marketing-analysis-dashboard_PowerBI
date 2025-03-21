@@ -21,3 +21,4 @@ This project analyses the data and bring forward insights that are crucial for t
 * Most number of CodeX users in Tier 1 city and highest number of users in Bangalore.
 * 46% of  CodeX users are preferring this brand to stay awake during study or work like in sports and exercises.
 * 10% of respondents who tried CodeX atleast once, preferred CodeX over other brands.
+### Refer project_report.pdf
